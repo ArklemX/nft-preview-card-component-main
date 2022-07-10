@@ -25,12 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot-nft-preview-desktop.png)
+![](./images/screenshot-nft-preview-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution URL is here](https://github.com/ArklemX/nft-preview-card-component-main)
+- Live Site URL: [My live site URL Justt here](https://arklemx.github.io/nft-preview-card-component-main)
 
 ## My process
 
